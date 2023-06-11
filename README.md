@@ -7,5 +7,5 @@ This repository consists of multiple files. Below, the files and their content a
 This is the first EDA as described in the Methodology section of the thesis report (section 3.3). This file contains the EDA steps after the merge (the merge was conducted within Dataiku, which has a built-in join function when uploading datasets). In this file, you can see how i dealt with missing values, categorical variables, outliers, how i constructed the target variable, and how i investigated the interaction and relationship between variables. 
 ## Notebook EDA final 2 
 In this file, additional datasets have been added to the final dataset from the first EDA file. This file updates the last plots in regards to the new dataset. The final dataset used in the research is the dataset that comes out of this file.
-## Notebook model pipeline 
-This file contains the code as described in the expiremental setup in the thesis report (section 3.4). 
+## Notebook models final
+This file contains the code as described in the expiremental setup in the thesis report (section 3.4). The pipeline and the results on the training set and test set are shown in this notebook for all the models and different sampling techniques. 

@@ -10,4 +10,4 @@ In this file, additional datasets have been added to the final dataset from the 
 ## Notebook models final
 This file contains the code as described in the expiremental setup in the thesis report (section 3.4). The pipeline and the results on the training set and test set are shown in this notebook for all the models and different sampling techniques. 
 ## Notebook models final 2
-This file containt mostly the same output as the other final models file, but this file also contains plots derived from the best model and the baseline models for each rebalancing technique.
+This file contains mostly the same output as the other final models file, but this file also contains plots derived from the best model and the baseline models for each rebalancing technique.
